@@ -443,9 +443,6 @@ export default {
   margin: 15px 0px;
 }
 .el-cascader {
-  width: 25%;
-}
-.el-tag {
   margin: 8px;
 }
 .input-new-tag {
